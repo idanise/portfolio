@@ -374,3 +374,9 @@ body {
   height: 100%;
   background: url(../img/loader.gif) center center no-repeat;
 }
+
+/* Animate Danise */
+.ml3 {
+  font-weight: 500;
+  font-size: 1.5em;
+}
